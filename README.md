@@ -8,15 +8,15 @@ You have been hired as a Deep Learning engineer to create a sophisticated model 
 ## Data description
 
 This data set consists of the following two columns:
-	Column Name 	Description
-	image_id 	Name of the image file
-	breed 	Snake breed [35 different breeds]
+Column Name 	Description
+image_id 	Name of the image file
+breed 		Snake breed [35 different breeds]
 
 The data folder consists of two folders and two .csv files. The details are as follows:
-	train: Contains 5508 images for 35 classes 
-	test: Contains 2361 images
-	train.csv: 5508 x 2
-	test.csv: 2361 x 1
+train: Contains 5508 images for 35 classes 
+test: Contains 2361 images
+train.csv: 5508 x 2
+test.csv: 2361 x 1
 
 
 The training data images are highly skewed / imbalance:
