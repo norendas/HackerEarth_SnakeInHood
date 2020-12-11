@@ -2,10 +2,10 @@
 Identify the snake breed
 https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-snake-breed-detection/machine-learning/identify-the-snake-breed-5-66d9a9f5/
 
-Problem statement
+## Problem statement
 You have been hired as a Deep Learning engineer to create a sophisticated model that can detect the breed of a snake from its image.
 
-Data description
+## Data description
 
 This data set consists of the following two columns:
 	Column Name 	Description
